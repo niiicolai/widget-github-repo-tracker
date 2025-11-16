@@ -41,7 +41,7 @@ export default function Home() {
         <pre className="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg overflow-x-auto text-sm">
           {`<iframe 
   src="https://niiicolai.github.io/widget-github-repo-tracker/#/dashboard?github_username=USERNAME&repository_name=REPOSITORY_NAME" 
-  height="270px"
+  height="414px"
   width="600px">
 </iframe>`}
         </pre>
