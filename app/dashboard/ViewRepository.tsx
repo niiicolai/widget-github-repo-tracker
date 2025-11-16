@@ -1,4 +1,3 @@
-import { CodeIcon, GlobeIcon } from "lucide-react";
 import type { Repository } from "../types/repository";
 
 export default function ViewRepository({
@@ -84,7 +83,7 @@ export default function ViewRepository({
 
   </div>
 
-  <div className="flex flex-wrap gap-4 pt-3 border-t border-gray-200 dark:border-gray-700">
+  <div className="flex flex-wrap items-center gap-4 pt-3 border-t border-gray-200 dark:border-gray-700">
     {repository.homepage && (
       <a
         href={repository.homepage}
@@ -92,7 +91,7 @@ export default function ViewRepository({
         rel="noopener noreferrer"
         className="text-blue-600 dark:text-blue-400 font-semibold hover:text-blue-700 dark:hover:text-blue-300 transition-colors flex items-center gap-1"
       >
-        <GlobeIcon className="w-5 h-5" /> Homepage
+        Homepage
       </a>
     )}
 
@@ -102,7 +101,7 @@ export default function ViewRepository({
       rel="noopener noreferrer"
       className="text-blue-600 dark:text-blue-400 font-semibold hover:text-blue-700 dark:hover:text-blue-300 transition-colors flex items-center gap-1"
     >
-      <CodeIcon className="w-5 h-5" /> View Source
+      View Source
     </a>
   </div>
 </div>

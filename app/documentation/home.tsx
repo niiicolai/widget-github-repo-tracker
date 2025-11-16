@@ -1,6 +1,6 @@
 
 export default function Home() {
-  const dashboardUrl = `http://localhost:5173/widget-github-repo-tracker/#/dashboard?github_username=niiicolai&repository_name=two-easy-engine`;
+  const dashboardUrl = `http://niiicolai.github.io/widget-github-repo-tracker/#/dashboard?github_username=niiicolai&repository_name=two-easy-engine`;
 
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white dark:bg-gray-900">
