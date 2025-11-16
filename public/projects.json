@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Task Manager Pro",
+      "status": "done",
+      "startDate": "2024-03-15",
+      "description": "A comprehensive task management application with drag-and-drop functionality, real-time collaboration, and advanced filtering. Built with React and Firebase for seamless team productivity.",
+      "website": "#",
+      "github": "#"
+    },
+    {
+      "name": "Weather Dashboard",
+      "status": "in_progress",
+      "startDate": "2024-08-20",
+      "description": "Interactive weather visualization platform featuring 7-day forecasts, historical data analysis, and customizable alerts. Integrates with multiple weather APIs for accurate predictions.",
+      "website": "#",
+      "github": "#"
+    },
+    {
+      "name": "Budget Tracker",
+      "status": "done",
+      "startDate": "2024-01-10",
+      "description": "Personal finance management tool with automatic categorization, spending insights, and budget goals. Features secure bank integration and monthly reports with visualizations.",
+      "website": "#",
+      "github": "#"
+    },
+    {
+      "name": "Code Snippet Library",
+      "status": "in_progress",
+      "startDate": "2024-10-05",
+      "description": "Developer tool for organizing and sharing code snippets across teams. Supports syntax highlighting for 50+ languages, tagging system, and private/public collections.",
+      "website": "#",
+      "github": "#"
+    },
+    {
+      "name": "Fitness Tracker",
+      "status": "planned",
+      "startDate": "2025-01-15",
+      "description": "Mobile-first fitness application tracking workouts, nutrition, and progress photos. Includes AI-powered workout recommendations and integration with popular fitness devices.",
+      "website": "#",
+      "github": "#"
+    },
+    {
+      "name": "Recipe Finder",
+      "status": "done",
+      "startDate": "2024-05-22",
+      "description": "Smart recipe discovery platform with ingredient-based search, meal planning, and shopping list generation. Features dietary filters and nutritional information for healthy cooking.",
+      "website": "#",
+      "github": "#"
+    }
+  ]
+}
